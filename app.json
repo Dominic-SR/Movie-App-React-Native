@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "WeNeed",
+    "slug": "WeNeed",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "WeNeed"
+}
